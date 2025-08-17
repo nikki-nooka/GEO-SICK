@@ -4,11 +4,11 @@
 
 ---
 
-## Team: [Your Team Name]
-- [Your Name/Member 1]
-- [Member 2]
-- [Member 3]
-- ...
+## Team: ZenCoders
+- Namburi Rishika
+- Nooka Nikshith
+- Yallampalli Srujan Kumar
+- Kotha Yasaswini
 
 ## Problem Statement
 Access to timely, understandable, and actionable environmental health data is a critical global challenge. Public health officials, NGOs, and communities often struggle to connect complex environmental factors—like climate, geography, and pollution—to specific, localized health risks. This information gap leads to reactive healthcare systems that treat diseases after they emerge, rather than preventing them. There is a pressing need for a tool that can democratize environmental intelligence, making it easy for anyone to understand the potential health hazards in their immediate surroundings and take proactive measures.
@@ -19,15 +19,14 @@ GeoSick is a cutting-edge web application that bridges the gap between environme
 By leveraging AI for location-based analysis, image recognition, and natural language processing, GeoSick transforms raw data into a clear, actionable intelligence briefing. It identifies potential hazards, predicts associated diseases, suggests preventive measures, and connects users with nearby health resources. Our goal is to empower individuals and communities to shift from a reactive to a proactive stance on health, mitigating crises before they begin.
 
 ## Key Features
-- **🌍 Interactive 3D Globe Explorer**: Click anywhere on a high-fidelity 3D globe or use the search function to initiate a detailed environmental health analysis for that specific location.
-- **📸 AI Image Analysis**: Upload a photo of a local area (e.g., a neighborhood, park, or water source) to get an instant AI-driven report on potential health hazards, associated disease risks, and recommended precautions.
-- **📜 Prescription Analysis**: Simply take a picture of a doctor's prescription, and our AI will transcribe the medicines, dosages, and instructions into a clear, easy-to-understand format.
-- **🩺 AI Symptom Checker**: Describe your symptoms in natural language to receive a cautious, AI-generated analysis of potential conditions and recommended next steps. **(Note: Not a substitute for professional medical advice)**.
-- **🧠 Mental Wellness Check-in**: Answer a short, confidential questionnaire to receive a supportive, non-clinical reflection on your mental well-being, including gentle observations and helpful coping strategies.
-- **🤖 AI Health Assistant**: An integrated chatbot, powered by a specialized Gemini model, is available to answer your questions about diseases, symptoms, and prevention in a conversational way.
-- **☀️ Daily Health Briefing**: Get a personalized daily health forecast based on your location, including analyses of air quality, pollen counts, UV index, and other environmental risk factors.
-- **🏥 Nearby Facility Finder**: After an analysis, find nearby hospitals, clinics, and pharmacies with a single click, complete with distances and directions.
-- **📈 Personal Activity History**: Logged-in users have access to a persistent history of their past scans and activities, allowing them to review previous analysis results at any time.
+- **Interactive 3D Globe Explorer**: Click anywhere on a high-fidelity 3D globe or use the search function to initiate a detailed environmental health analysis for that specific location.
+- **AI Image Analysis**: Upload a photo of a local area (e.g., a neighborhood, park, or water source) to get an instant AI-driven report on potential health hazards, associated disease risks, and recommended precautions.
+- **Prescription Analysis**: Simply take a picture of a doctor's prescription, and our AI will transcribe the medicines, dosages, and instructions into a clear, easy-to-understand format.
+- **AI Symptom Checker**: Describe your symptoms in natural language to receive a cautious, AI-generated analysis of potential conditions and recommended next steps. **(Note: Not a substitute for professional medical advice)**.
+- **Mental Wellness Check-in**: Answer a short, confidential questionnaire to receive a supportive, non-clinical reflection on your mental well-being, including gentle observations and helpful coping strategies.
+- **AI Health Assistant**: An integrated chatbot, powered by a specialized Gemini model, is available to answer your questions about diseases, symptoms, and prevention in a conversational way.
+- **Daily Health Briefing**: Get a personalized daily health forecast based on your location, including analyses of air quality, pollen counts, UV index, and other environmental risk factors.
+- **Nearby Facility Finder**: After an analysis, find nearby hospitals, clinics, and pharmacies with a single click, complete with distances and directions.
 
 ## Tech Stack
 - **Frontend**: React, TypeScript, Tailwind CSS
@@ -44,7 +43,7 @@ Follow these steps to get a local copy of GeoSick up and running.
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/geosick.git
+git clone https://code.swecha.org/Nikshith0805/geosickai
 cd geosick
 ```
 
@@ -78,12 +77,10 @@ The application should now be running on `http://localhost:5173`.
 2.  **Explore the Globe**: Click the "Explore Now" button. You can either click directly on the 3D globe or use the search bar to find a location. A detailed analysis panel will appear with hazards, potential diseases, and nearby health facilities.
 3.  **Analyze an Image**: After logging in, select "Analyze Image". Upload a photo or use your camera to capture one. The AI will analyze it and produce a report.
 4.  **Use Other Tools**: From the welcome dashboard, you can access the Prescription Analyzer, Symptom Checker, Mental Wellness Check-in, or your Daily Health Briefing. Follow the on-screen instructions for each tool.
-5.  **View History**: From the welcome dashboard, click "Activity History" to see a log of your past scans and logins. You can view the details of any previous analysis.
-6.  **Chat with the AI**: Click the chatbot icon in the bottom-right corner at any time to ask health-related questions.
+5.  **Chat with the AI**: Click the chatbot icon in the bottom-right corner at any time to ask health-related questions.
 
 ## Demo
-- **Live Demo Link**: [Insert Your Live Demo URL Here]
-- **Video Walkthrough**: [Link to YouTube, Loom, or other video here]
-
+- **Live Demo Link**: https://geo-ai-sick.netlify.app/
+- **Video Walkthrough**: https://drive.google.com/file/d/1JSRY41rIef3jbEX58qFcMzoDvtROxQrN/view?usp=sharing
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
