@@ -7,8 +7,7 @@
 ## Team: ZenCoders
 - Namburi Rishika
 - Nooka Nikshith
-- Yallampalli Srujan Kumar
-- Kotha Yasaswini
+
 
 ## Problem Statement
 Access to timely, understandable, and actionable environmental health data is a critical global challenge. Public health officials, NGOs, and communities often struggle to connect complex environmental factors—like climate, geography, and pollution—to specific, localized health risks. This information gap leads to reactive healthcare systems that treat diseases after they emerge, rather than preventing them. There is a pressing need for a tool that can democratize environmental intelligence, making it easy for anyone to understand the potential health hazards in their immediate surroundings and take proactive measures.
